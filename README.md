@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lscherillo
 - 👀 I’m interested in Coding and videogames
-- 📫 How to reach me lscherillo@sysmanagement.it
 - 😄 Pronouns: He/Him
 
 <!---
